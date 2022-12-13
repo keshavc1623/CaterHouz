@@ -100,7 +100,7 @@ img {
 
 .hero_div {
 	height: 94vh;
-	background-image: linear-gradient(to right bottom, rgb(0 0 0 / 32%), rgb(0 0 0 / 82%)), url(../images/bgHomeNew.jpg);
+	background-image: linear-gradient(to right bottom, rgb(0 0 0), rgb(42 63 56 / 72%)), url(../images/bgHomeNew.jpg);
 	background-position: top;
 	background-size: cover;
 	width: 100%;
